@@ -6,7 +6,7 @@ s3=sys.argv[3]
 
 print("File:",sys.argv[0])
 print("Name:",s1)
-print("Rno:",s22)
+print("Rno:",s2)
 print("Deptname:",s3)
 
 
